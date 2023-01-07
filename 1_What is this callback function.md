@@ -1,5 +1,7 @@
 ![cover Image](https://blog.denilgabani.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1641108201327%2FtYooNF1th.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)
 
+# What is this callback function?
+
 Whoever comes into the Javascript world🌎 I am sure most of them would have gotten a question❓ **why do we use these callback functions?** and **how does it work?** even I had the same questions so let's deep dive🏊🏻‍♂️ into these questions and learn👨🏻‍🏫 from them.
 
 ## What is Callback Function?
