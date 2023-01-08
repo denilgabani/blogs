@@ -1,3 +1,5 @@
+![cover image of Authentication Methods in a nutshell](https://blog.denilgabani.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673182765493%2F01fb2d52-fee4-403f-ab70-28647fc0f475.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)
+
 # Authentication Methods in a nutshell
 
 In technical or non-technical you must have come across the word Authentication. Here we will go through it from a technical perspective.
